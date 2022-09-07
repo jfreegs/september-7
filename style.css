@@ -21,3 +21,11 @@ p {
 h3 {
   color: #79443b;
 }
+h5 {
+  font-weight: 25;
+  margin: 30px;
+}
+button {
+  font-family: sans-serif;
+  margin-top: 30px;
+}
