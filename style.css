@@ -1,5 +1,5 @@
 Body {
-  background-color: white;
+  background-color: #faf0e6;
   text-align: center;
   font-family: sans-serif;
 }
@@ -17,4 +17,7 @@ p {
 }
 p {
   font-weight: 100;
+}
+h3 {
+  color: #79443b;
 }
